@@ -43,4 +43,10 @@ body{
     display: table;
     clear: both;
   }
-  
+  #subh1 {
+    background: rgba(77, 40, 40, 0.54);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    border: 1px solid rgba(77, 40, 40, 0.3);;}
