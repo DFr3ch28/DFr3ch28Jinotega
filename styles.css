@@ -1,6 +1,7 @@
 body{
     padding: 25px;
-  }
+  background-image: url ("lago-de-apanas-jinotega-nicaragua.jpg")
+}
   .title1 {
       font-weight: bold; 
       margin: 5px;
@@ -38,3 +39,4 @@ body{
     display: table;
     clear: both;
   }
+  
