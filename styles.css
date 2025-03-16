@@ -1,6 +1,10 @@
-body{
+body{ 
+    background-image: url("Lago1.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
     padding: 25px;
-  background-image: url ("lago-de-apanas-jinotega-nicaragua.jpg")
 }
   .title1 {
       font-weight: bold; 
